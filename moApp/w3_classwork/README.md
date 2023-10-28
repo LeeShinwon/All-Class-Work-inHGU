@@ -20,8 +20,13 @@ Favorites <br>
 <img src = "https://github.com/LeeShinwon/AllClassWork/assets/82192923/e830784f-0193-476b-917e-03cd22a6d733" width="250" height="400">
 <img src = "https://github.com/LeeShinwon/AllClassWork/assets/82192923/38f23764-843a-4306-852e-92233fb82c7d" width="250" height="400">
 <img src = "https://github.com/LeeShinwon/AllClassWork/assets/82192923/5ab18eab-72b8-49f1-931f-e047eceeb168" width="250" height="400">
-
 <br><br>
-동작영상 확인 <br>
-mac size [link1](https://github.com/LeeShinwon/AllClassWork/assets/82192923/670820b0-69fb-4fb6-9f2f-8f0e557d2828) <br>
-iphone size [link2](https://github.com/LeeShinwon/AllClassWork/assets/82192923/fed38584-7bf6-4a13-91b8-ab399e764eed)
+
+Profile <br>
+<img src = "https://github.com/LeeShinwon/AllClassWork/assets/82192923/2b253fbb-f269-4a6a-a7f2-712f9fb5f3a6" width="250" height="400">
+<br><br>
+
+
+### 동작영상 확인
+version1 [link1](https://github.com/LeeShinwon/AllClassWork/assets/82192923/670820b0-69fb-4fb6-9f2f-8f0e557d2828) <br>
+version2 [link2](https://github.com/LeeShinwon/AllClassWork/assets/82192923/fed38584-7bf6-4a13-91b8-ab399e764eed)
