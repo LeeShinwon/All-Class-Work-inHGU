@@ -1,4 +1,4 @@
-# 😀 w2_classwork 
+# w2_classwork 😀 
 
 ### 개발 일자
 2023.09.11
