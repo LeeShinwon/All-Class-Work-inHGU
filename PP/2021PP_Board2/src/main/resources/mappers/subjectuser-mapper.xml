@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="SubjectUser">
+
+	<insert id="insertUser">
+		insert into subjectmember (subid, semester)
+		values(#{subid}, #{semester} )
+	</insert>
+	<update id="updateUser">
+		update subjectmember
+		set subid=#{subid}, semester=#{semester}}
+		where seq=#{seq}
+	</update>
+	<delete id="deleteUser">
+		delete from subjectmember where seq=#{seq}
+	</delete>
+	<select id="getUser" resultType="subjectuser">
+		select * from subjectmember where seq=#{seq}
+	</select>
+	<select id="getUserList" resultType="subjectuser">
+		select * from subjectmember order by seq=#{seq}
+	</select>
+
+
+</mapper>
