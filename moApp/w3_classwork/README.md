@@ -1,16 +1,13 @@
-# w3_classwork
+# w3_classwork 😀 
 
-"A new Flutter project."
+### 개발 일자
+2023.09.21
+<br><br>
 
-## Getting Started
+### 참고 내용
+flutter.dev codelab beautiful UI tutorial [link](https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful?hl=ko)
+<br><br>
 
-This project is a starting point for a Flutter application.
+### 개발 내용
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "" width="200" height="400">
