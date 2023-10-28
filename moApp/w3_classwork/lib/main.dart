@@ -402,7 +402,7 @@ class MyProfile extends StatelessWidget {
           ClipRRect(
             borderRadius: BorderRadius.circular(50),
             child: Image.network(
-              'https://github.com/LeeShinwon/flutter/assets/82192923/705288f4-df3c-4faa-851c-22d8799be88c',
+              'https://github.com/LeeShinwon/AllClassWork/assets/82192923/0e237cd5-053c-48fb-b8ce-50eb05b3a743',
               height: 200,
             ),
           ),
